@@ -3,8 +3,11 @@
 
 https://imai-k-0117.github.io/make_eitanlist/
 
-make_html/py  
+make_html.py  
 csvを読み込んでhtmlを作成
 
 index.html  
 実際にできたhtmlファイル
+
+cteate_mysql.py  
+csvファイルをmysqに読み込む　ーーーーの部分は各自のをお使いください　
