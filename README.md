@@ -7,7 +7,8 @@ make_html.py
 csvを読み込んでhtmlを作成
 
 cteate_mysql.py  
-csvファイルをmysqに読み込む　ーーーーの部分は各自のをお使いください　
+csvファイルをmysqに読み込む　ーーーーの部分は各自のをお使いください  
+csvファイルはローカルから読みこむ為に権限変更を行ってcmdからいちいち起動しないといけないのでmysqlからの方が便利だとおもいます。
 
 index.html  
 実際にできたhtmlファイル
